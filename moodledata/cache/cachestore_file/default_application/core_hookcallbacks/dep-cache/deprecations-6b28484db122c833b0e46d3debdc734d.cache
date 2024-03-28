@@ -1,0 +1,1 @@
+a:4:{s:25:"before_standard_html_head";a:1:{i:0;s:53:"core\hook\output\before_standard_head_html_generation";}s:30:"quiz_attempt_deleted::callback";a:1:{i:0;s:35:"mod_quiz\hook\attempt_state_changed";}s:33:"quiz_structure_modified::callback";a:1:{i:0;s:32:"mod_quiz\hook\structure_modified";}s:17:"bulk_user_actions";a:1:{i:0;s:39:"core_user\hook\extend_bulk_user_actions";}}
