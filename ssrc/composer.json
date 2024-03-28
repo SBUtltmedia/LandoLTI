@@ -1,0 +1,19 @@
+{
+  "name": "celtic/rating",
+  "version": "5.0.0",
+  "type": "project",
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "Stephen P Vickers",
+      "email": "stephen@spvsoftwareproducts.com"
+    }
+  ],
+  "support": {
+    "docs": "https://github.com/celtic-project/Rating-PHP/wiki"
+  },
+  "require": {
+    "php": ">=8.1",
+    "celtic/lti": "^5.0.0"
+  }
+}
